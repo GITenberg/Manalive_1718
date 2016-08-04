@@ -1,0 +1,38 @@
+_repo: Manalive_1718
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chesterton, G. K. (Gilbert Keith)
+    aliases:
+    - Chesterton, Gilbert K. (Gilbert Keith)
+    - Chesterton, Gilbert Keith
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '80'
+    url: http://www.gutenberg.org/2009/agents/80
+    wikipedia: http://en.wikipedia.org/wiki/G._K._Chesterton
+description: "Manalive (1912) is a book by G. K. Chesterton detailing a popular theme\
+  \ both in his own philosophy, and in Christianity, of the \"holy fool\", such as\
+  \ in Dostoevsky's The Idiot and Cervantes' Don Quixote.\n\n\n From Wikipedia (CC\
+  \ BY-SA)."
+gutenberg_issued: '1999-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1718'
+  wikidata: Q3828527
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Humorous stories'
+- !lcsh 'Attempted murder -- Fiction'
+- !lcsh 'False arrest -- Fiction'
+- !lcsh 'Mystery fiction'
+- GITenberg
+title: Manalive
+url: http://www.gutenberg.org/ebooks/1718
+wikipedia:
+- https://en.wikipedia.org/wiki/Manalive
+- https://it.wikipedia.org/wiki/Uomovivo
